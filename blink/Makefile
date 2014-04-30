@@ -10,7 +10,7 @@ CORE_LIBRARIES :=  SPI Wire
 USER_LIB_HOME := ../libraries
 
 # Configurable options
-OPTIONS = -DF_CPU=48000000 -DUSB_RAWHID -DLAYOUT_US_ENGLISH
+OPTIONS = -DF_CPU=48000000 -DUSB_SERIAL -DLAYOUT_US_ENGLISH
 
 # Options needed by many Arduino libraries to configure for Teensy 3.1
 OPTIONS += -D__MK20DX128__ -DARDUINO=105 -DTEENSYDUINO=118
