@@ -1,6 +1,6 @@
 hello_teensy
 ============
-A reference project for makefile based project on teensy3.0
+A reference project for makefile based project on teensy3.0. Projects in this setup are also compatible with the arduino IDE 1.0.5. Tested and works with arduino-1.0.5
 
 Usage
 -----
