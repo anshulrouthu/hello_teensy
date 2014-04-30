@@ -1,6 +1,6 @@
 hello_teensy
 ============
-A reference project for makefile based project on teensy3.1
+A reference project for makefile based project on teensy3.0
 
 Usage
 -----
