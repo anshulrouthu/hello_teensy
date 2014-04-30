@@ -9,9 +9,9 @@ Run ./setup.sh
 when teensyduino installer starts click next and point it to the <current dir>/arduino-1.x.x/ folder and clocl next
 select all the libraries that are required and click next ---> install
 
-$ ./setup.sh
-$ cd blink
-$ make
+$ ./setup.sh<br>
+$ cd blink<br>
+$ make<br>
 
 this will load the built blink example into the teensy3.0 board
 
