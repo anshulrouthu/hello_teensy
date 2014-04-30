@@ -1,0 +1,7 @@
+arduino-1.0.5
+*.hex
+*.eep
+*.o
+*.elf
+*~
+obj
